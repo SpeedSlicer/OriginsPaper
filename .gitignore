@@ -6,4 +6,4 @@
 /run/
 /.gitpod.yml
 /.vscode/
-
+.DS_Store

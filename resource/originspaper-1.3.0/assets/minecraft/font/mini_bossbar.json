@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/mini_bossbar.png",
+            "ascent": 13,
+            "height": 25,
+            "chars":  [
+                "\uE000"
+            ]
+        }
+    ]
+}

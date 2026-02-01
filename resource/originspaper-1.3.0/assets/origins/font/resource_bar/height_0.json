@@ -1,0 +1,23 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "origins:gui/pixels.png",
+            "ascent": -14,
+            "height": 8,
+            "chars":  [
+                "\uE000\uE001\uE002\uE003\uE004\uE005\uE006\uE007"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                "\uF000": -2,
+                "\uF001": -1,
+                "\uF002": 2,
+                "\uF003": 181,
+                "\uF004": -81
+            }
+        }
+    ]
+}
