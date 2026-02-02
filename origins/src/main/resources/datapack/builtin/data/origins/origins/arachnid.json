@@ -1,7 +1,7 @@
 {
   "powers": [
     "origins:climbing",
-    "origins:master_of_webs",
+    "origins:no_cobweb_slowdown",
     "origins:carnivore",
     "origins:fragile",
     "origins:arthropod"

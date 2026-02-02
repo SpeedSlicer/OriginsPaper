@@ -34,7 +34,7 @@ allprojects {
         maven("https://repo.papermc.io/repository/maven-public/")
         maven("https://oss.sonatype.org/content/groups/public/")
         maven("https://repo.opencollab.dev/main/")
-        maven("https://repo.extendedclip.com/content/repositories/placeholderapi/")
+        maven("https://repo.helpch.at/releases")
         maven("https://repo.inventivetalent.org/repository/public/")
         maven("https://repo.codemc.org/repository/maven-releases/")
         maven("https://jitpack.io")
